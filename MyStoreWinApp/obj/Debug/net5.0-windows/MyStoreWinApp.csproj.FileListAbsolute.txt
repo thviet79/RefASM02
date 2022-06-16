@@ -1,0 +1,199 @@
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmLogin.resources
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberDetails.resources
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberManagement.resources
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfo.cs
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.exe
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.deps.json
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.json
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.dev.json
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\ref\MyStoreWinApp.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.pdb
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CopyComplete
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\ref\MyStoreWinApp.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.pdb
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.genruntimeconfig.cache
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.exe
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.deps.json
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.json
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.dev.json
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\ref\MyStoreWinApp.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.pdb
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csprojAssemblyReference.cache
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmLogin.resources
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberDetails.resources
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberManagement.resources
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfo.cs
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CopyComplete
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\ref\MyStoreWinApp.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.pdb
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.genruntimeconfig.cache
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.Messages.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\ref\MyStoreWinApp.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.pdb
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.exe
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.deps.json
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.json
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.dev.json
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\ref\MyStoreWinApp.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.pdb
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmLogin.resources
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberDetails.resources
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberManagement.resources
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfo.cs
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CopyComplete
+C:\Users\Harper\Desktop\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.exe
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\appsettings.json
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.deps.json
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.json
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\ref\MyStoreWinApp.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.pdb
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventLog.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\System.Text.Json.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\System.Diagnostics.EventLog.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmLogin.resources
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberDetails.resources
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberManagement.resources
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CopyComplete
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\ref\MyStoreWinApp.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.pdb
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.genruntimeconfig.cache

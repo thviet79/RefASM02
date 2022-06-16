@@ -1,0 +1,60 @@
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\doan\Desktop\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\doan\Desktop\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\doan\Desktop\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\doan\Desktop\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+C:\Users\doan\Desktop\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doan\Desktop\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\doan\Desktop\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\doan\Desktop\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\doan\Desktop\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\doan\Desktop\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\doan\Desktop\ASM01\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Harper\Desktop\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Harper\Desktop\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Harper\Desktop\Ass01Solution\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Harper\Desktop\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Harper\Desktop\Ass01Solution\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\Harper\Desktop\Ass01Solution\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\Harper\Desktop\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Harper\Desktop\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harper\Desktop\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Harper\Desktop\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Harper\Desktop\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Harper\Desktop\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\Harper\Desktop\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Harper\Desktop\Ass01Solution\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Harper\Desktop\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+C:\Users\Admin\Downloads\Ass01Solution\Ass01Solution\DataAccess\obj\Debug\net5.0\DataAccess.pdb

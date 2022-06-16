@@ -1,0 +1,8 @@
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Release\net5.0-windows\MyStoreWinApp.frmLogin.resources
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Release\net5.0-windows\MyStoreWinApp.frmMemberDetails.resources
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Release\net5.0-windows\MyStoreWinApp.frmMemberManagement.resources
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Release\net5.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Release\net5.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Release\net5.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Release\net5.0-windows\MyStoreWinApp.AssemblyInfo.cs
+G:\FU2022\2022\Mon PRN211\Demo\Basic.NET\ASM2022\ASM01\Ass01Solution\MyStoreWinApp\obj\Release\net5.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
